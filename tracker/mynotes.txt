@@ -1,0 +1,13 @@
+1. created the django project - tracker
+2. created the 2 apps in tracker - 1) regular 2) occasional
+3. created the templates and static folders in project and each app
+4. created the urls.py file in each app
+5. inside project - templates/tracker/index.html
+6. inside project - templates/css/home.css
+
+
+changes in settings.py
+1. added
+    1.1 path of regular and occasional apps template folder
+    1.2 app names of regular and occasional in INSTALLED_APPS
+    1.3 
